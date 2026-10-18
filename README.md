@@ -36,3 +36,12 @@ Només carrega la tipografia Source Serif 4 de Google Fonts.
 
 Pàgina estàtica: n'hi ha prou de servir `index.html`; també funciona obrint-lo directament
 amb el navegador.
+
+<!-- atribucio-centre:inici -->
+
+---
+
+Material desenvolupat per **David Arso Civil** per al Departament de Matemàtiques de l'INS Miquel Tarradell.
+Contingut sota CC BY-NC-SA 4.0, codi sota llicència MIT. Vegeu [`LLICENCIA.md`](LLICENCIA.md).
+
+<!-- atribucio-centre:final -->
